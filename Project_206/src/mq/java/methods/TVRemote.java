@@ -26,6 +26,7 @@ public class TVRemote
 	public static void main(String[] args) 
 	{
 		new TVRemote().on();
+		new TVRemote().off();
 	}
 
 }
