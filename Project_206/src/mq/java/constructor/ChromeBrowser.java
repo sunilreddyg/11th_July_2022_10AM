@@ -1,6 +1,7 @@
 package mq.java.constructor;
 
-public class ChromeBrowser {
+public class ChromeBrowser 
+{
 
 	public ChromeBrowser() 
 	{

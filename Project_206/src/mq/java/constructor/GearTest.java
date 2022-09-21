@@ -8,7 +8,6 @@ public class GearTest
 		System.out.println("Hold Clutch");
 	}
 	
-	
 	public void ChangeGear1() 
 	{
 		System.out.println("Gear1 Changed");
