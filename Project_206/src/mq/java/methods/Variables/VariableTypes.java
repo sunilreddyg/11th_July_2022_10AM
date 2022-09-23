@@ -1,5 +1,6 @@
 package mq.java.methods.Variables;
 
+
 public class VariableTypes 
 {
 	//Global variable [Instant Variable]
@@ -21,8 +22,7 @@ public class VariableTypes
 		System.out.println(email);
 		System.out.println(phone);
 	}
-	
-	
+
 
 	public static void main(String[] args) 
 	{
@@ -35,7 +35,9 @@ public class VariableTypes
 		//Calling static variable
 		System.out.println(VariableTypes.a);
 		System.out.println(VariableTypes.b);
-	
+		
+		
+		
 	}
 
 }
