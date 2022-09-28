@@ -1,14 +1,13 @@
 package launchBrowsers;
 
 import org.openqa.selenium.firefox.FirefoxDriver;
-
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class OpenFirefoxBrowser {
+public class OpenFirefoxBrowser 
+{
 
 	public static void main(String[] args) 
 	{
-		
 		
 		//Setup geckoDriver
 		WebDriverManager.firefoxdriver().setup();
@@ -22,6 +21,8 @@ public class OpenFirefoxBrowser {
 		
 		//Close browser
 		firefox.close();
+		
+		
 	}
 
 }
