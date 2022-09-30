@@ -15,7 +15,7 @@ Default inspect option at browser window:---->
 		
 			* open Application
 			* Press F12  (it opens html window)
-			* From HTML window pick element at webpage
+			* From HTML window pick element at webpage.
 
 		Navigation:--->  Right click on element you wish to Watch element html source
 			           Select  ---->  inspect
